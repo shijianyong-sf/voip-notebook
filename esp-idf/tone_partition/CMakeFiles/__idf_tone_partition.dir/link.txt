@@ -1,0 +1,2 @@
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libtone_partition.a  CMakeFiles/__idf_tone_partition.dir/tone_partition.c.obj
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libtone_partition.a

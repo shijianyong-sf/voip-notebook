@@ -1,0 +1,2 @@
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libdisplay_service.a  CMakeFiles/__idf_display_service.dir/display_service.c.obj CMakeFiles/__idf_display_service.dir/led_indicator/led_indicator.c.obj CMakeFiles/__idf_display_service.dir/led_bar/led_bar_is31x.c.obj CMakeFiles/__idf_display_service.dir/led_bar/led_bar_aw2013.c.obj CMakeFiles/__idf_display_service.dir/led_bar/led_bar_ws2812.c.obj
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libdisplay_service.a

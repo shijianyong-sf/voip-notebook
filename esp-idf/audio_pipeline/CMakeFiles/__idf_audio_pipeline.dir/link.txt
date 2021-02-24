@@ -1,0 +1,2 @@
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libaudio_pipeline.a  CMakeFiles/__idf_audio_pipeline.dir/audio_element.c.obj CMakeFiles/__idf_audio_pipeline.dir/audio_event_iface.c.obj CMakeFiles/__idf_audio_pipeline.dir/audio_pipeline.c.obj CMakeFiles/__idf_audio_pipeline.dir/ringbuf.c.obj
+/home/sjy/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libaudio_pipeline.a

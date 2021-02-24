@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/sjy/esp/voip/CMakeFiles/bootloader
+/home/sjy/esp/voip/CMakeFiles/bootloader.rule
+/home/sjy/esp/voip/CMakeFiles/bootloader-complete.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/sjy/esp/voip/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
